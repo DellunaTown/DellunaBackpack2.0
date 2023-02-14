@@ -1,0 +1,4 @@
+name: DellunaBackpack
+version: ${project.version}
+main: me.lewin.dellunabackpack.DellunaBackpack
+api-version: 1.19.3
